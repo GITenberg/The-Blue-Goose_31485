@@ -1,0 +1,29 @@
+_repo: The-Blue-Goose_31485
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 31485-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Nason, Frank Lewis
+    birthdate: 1856
+    deathdate: 1928
+    gutenberg_agent_id: '35268'
+    url: http://www.gutenberg.org/2009/agents/35268
+description: ''
+gutenberg_issued: '2010-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31485'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mines and mineral resources -- Colorado -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Miners -- Fiction'
+- !lcsh 'Strikes and lockouts -- Fiction'
+- !lcc 'PS'
+title: The Blue Goose
+url: http://www.gutenberg.org/ebooks/31485
